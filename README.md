@@ -12,6 +12,7 @@ Sigue estas instrucciones para tener una copia del proyecto corriendo en tu máq
 
 Necesitarás tener instalado en tu sistema:
 
+  * MacOs
   * Node.js y npm
   * Angular CLI
   * Xcode
